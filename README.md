@@ -1,5 +1,5 @@
 Why did it take me so long to figure out that it's not normal to love numbers and computers this much? I don't know, but data analytics is where I belong. Not just belong – I thrive on data, whether it’s wrangling messy spreadsheets, exploring trends, or building predictive models. My fascination with data led me to dive headfirst into the world of analytics. 
-**Skills and tools:**
+**Skills and tools:**\n 
 **Technical Skills:** Proficient in Python. Comfortable with data visualization libraries like Matplotlib and Seaborn. Basic knowledge of SQL, JavaScript, HTML. Excited to learn R.
 **Statistical analysis:** Comfortable with statistics/biostatistics in medicine
 **Excel Wizardry:** Pivot tables and conditional formatting - I wield Excel like a sorcerer.
