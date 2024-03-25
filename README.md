@@ -2,15 +2,15 @@ Why did it take me so long to figure out that it's not normal to love numbers an
 
 **Skills and tools:**\
 **Technical Skills:** Proficient in Python. Comfortable with data visualization libraries like Matplotlib and Seaborn. Basic knowledge of SQL, JavaScript, HTML. Excited to learn R.\
-**Statistical analysis:** Comfortable with statistics/biostatistics in medicine.\
+**Statistical analysis:** Comfortable with statistics/biostatistics.\
 **Excel Wizardry:** Pivot tables and conditional formatting - I wield Excel like a sorcerer.\
-**Tools:** Jupyter Notebook and GitHub are my trusty companions.
+**Tools:** Jupyter Notebook and GitHub are my trusty companions, learning Tableau.
 
 **Relevant Education and Certifications:**\
-**BI Data Analytics:** Codecademy course in progress (+80% complete).\
+**BI Data Analytics:** Codecademy course in progress (96% complete).\
 **PharmD classes:** Advanced Drug Information, Biostatistics in Pharmacy and Medicine, Med Informatics, Research Design and Methodology.
 
-From wrangling data to crafting visualizations, I’m ready to contribute my analytical prowess to your team. Let’s turn data into actionable insights!
+From wrangling data to crafting visualizations, I’m ready to contribute my analytical prowess to your team. Let’s help people make informed decisions!
 
 <!---
 BitsAndGravy/BitsAndGravy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
