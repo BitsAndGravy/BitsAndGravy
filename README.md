@@ -7,7 +7,7 @@ Why did it take me so long to figure out that it's not normal to love numbers an
 **Tools:** Jupyter Notebook and GitHub are my trusty companions, learning Tableau.
 
 **Relevant Education and Certifications:**\
-**BI Data Analytics:** Codecademy course in progress (96% complete).\
+**BI Data Analytics:** Codecademy online course.\
 **PharmD classes:** Advanced Drug Information, Biostatistics in Pharmacy and Medicine, Med Informatics, Research Design and Methodology.
 
 From wrangling data to crafting visualizations, I’m ready to contribute my analytical prowess to your team. Let’s help people make informed decisions!
